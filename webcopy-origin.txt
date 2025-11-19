@@ -1,5 +1,5 @@
 Uri: https://bricknet.peterdraw.co/
-File Name: C:\Downloaded Web Sites\bricknet.peterdraw.co\index.htm
+File Name: C:\Downloaded Web Sites\bricknet.peterdraw.co\index.html
 Content Type: text/html
 
 Uri: https://bricknet.peterdraw.co/about.html
