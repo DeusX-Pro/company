@@ -1,4 +1,4 @@
-Tee here is the code 
+
  <section class="section-white" aria-labelledby="partners-title">
     <div class="wrapper self-stretch px-5 lg:px-20 pt-20 pb-20  lg:pt-20 lg:pb-32  flex flex-col gap-20">
       <div class="flex flex-col lg:flex-row justify-start lg:justify-between gap-14 lg:gap-0 lg:items-start" aria-label="Partner logos">
