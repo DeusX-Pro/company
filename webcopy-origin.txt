@@ -30,8 +30,8 @@ Uri: https://bricknet.peterdraw.co/favicon.svg
 File Name: C:\Downloaded Web Sites\bricknet.peterdraw.co\favicon.svg
 Content Type: image/svg+xml
 
-Uri: https://bricknet.peterdraw.co/home.html
-File Name: C:\Downloaded Web Sites\bricknet.peterdraw.co\home.html
+Uri: https://bricknet.peterdraw.co/index.html
+File Name: C:\Downloaded Web Sites\bricknet.peterdraw.co\index.html
 Content Type: text/html
 
 Uri: https://bricknet.peterdraw.co/images/gallery-01@1x.webp
