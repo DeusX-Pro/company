@@ -1,9 +1,7 @@
 ﻿@font-face {
   font-family: "Phosphor";
-  src:
-    url("Phosphor.woff2") format("woff2"),
-    url("Phosphor.woff") format("woff"),
-    url("Phosphor.ttf") format("truetype"),
+  src: url("Phosphor.woff2") format("woff2"),
+    url("Phosphor.woff") format("woff"), url("Phosphor.ttf") format("truetype"),
     url("Phosphor.svg") format("svg");
   font-weight: normal;
   font-style: normal;
@@ -3059,10 +3057,10 @@
 .ph.ph-option:before {
   content: "\e8a8";
 }
-.ph.ph-orange:before {
+.ph.ph-orange :before {
   content: "\ee40";
 }
-.ph.ph-orange-slice:before {
+.ph.ph-orange -slice:before {
   content: "\ed36";
 }
 .ph.ph-oven:before {
